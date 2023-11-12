@@ -4,11 +4,6 @@
 - 🌱 Estudando Java em Fatec Zona Leste : Dev 
 - 😄 Pronouns: Ele/Dele
 
-<div>
-  <a href="https://github.com/FelypeDantas">
-    <img height="180em" scr="https://github-readme-stats.verce1.app/api?username=FelypeDantas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
 <div style = "Display: inline block"><br>
   <img align="center" alt="Fe-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Fe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
