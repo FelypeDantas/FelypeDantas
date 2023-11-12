@@ -1,5 +1,13 @@
 ### Olá Galera, Eu sou o Felype 👋
 
+- 🔭 estou em busca do <strong> meu primeiro emprego </strong>
+- 🌱 Estudando Java em Fatec Zona Leste : Dev 
+- 😄 Pronouns: Ele/Dele
+
+<div>
+  <a href="https://github.com/FelypeDantas">
+    <img height="180em" scr="https://github-readme-stats.verce1.app/api?username=FelypeDantas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 <div style = "Display: inline block"><br>
   <img align="center" alt="Fe-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
@@ -8,8 +16,3 @@
   <img align="center" alt="Fe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Fe-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-
-
-- 🔭 estou em busca do <strong> meu primeiro emprego </strong>
-- 🌱 Estudando Java em Fatec Zona Leste : Dev 
-- 😄 Pronouns: Ele/Dele
