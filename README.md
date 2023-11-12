@@ -1,7 +1,7 @@
 ### Olá Galera, Eu sou o Felype 👋
 
 - 🔭 estou em busca do <strong> meu primeiro emprego </strong>
-- 🌱 Estudando <i>Java<i> (ADS) em Fatec Zona Leste : Dev 
+- 🌱 Estudando <i>Java </i> (ADS) em Fatec Zona Leste : Dev 
 - 😄 Pronouns: Ele/Dele
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/poet.ry9096/)
