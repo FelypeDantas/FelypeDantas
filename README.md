@@ -2,11 +2,12 @@
 
 - 🔭 estou em busca do <strong> meu primeiro emprego </strong>
 - 🌱 Estudando <i>Java </i> (ADS) em Fatec Zona Leste : Dev 
-- 😄 Pronouns: Ele/Dele
+- 😄 Pronomes: Ele/Dele
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/poet.ry9096/)
 [![Facebook](https://img.shields.io/badge/Facebook-0866FF.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100015251503264&mibextid=ZbWKwL)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/qr/EOCNNKM4XUHDM1)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FelypeDantas)
 
 ![FelypeDantas GitHub stats](https://github-readme-stats.vercel.app/api?username=FelypeDantas&show_icons=true&theme=highcontrast)
 ![Felype Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelypeDantas&layout=compact)
@@ -22,3 +23,9 @@
   <img align="center" alt="Fe-C" height="30" width="40" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
    <img align="center" alt="Fe-C++" height="30" width="40" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </div>
+
+## IDE's as quais estou acostumado
+
+![eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![Intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
