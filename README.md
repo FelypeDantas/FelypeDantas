@@ -8,9 +8,10 @@
 [![Facebook](https://img.shields.io/badge/Facebook-0866FF.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100015251503264&mibextid=ZbWKwL)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/qr/EOCNNKM4XUHDM1)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FelypeDantas)
+![Follow](https://img.shields.io/github/followers/FelypeDantas.svg?style=social&label=Follow&maxAge=2592000)
 
 ![FelypeDantas GitHub stats](https://github-readme-stats.vercel.app/api?username=FelypeDantas&show_icons=true&theme=highcontrast)
-![Felype Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelypeDantas&layout=compact)
+![Felype Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelypeDantas&theme=blue-green)
 
 ## Tecnologias do meu dia a dia!
 
