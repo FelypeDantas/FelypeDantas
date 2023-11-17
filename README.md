@@ -1,8 +1,12 @@
+## Perfil do Felype
+
 ### Olá Galera, Eu sou o Felype 👋
 
 - 🔭 estou em busca do <strong> meu primeiro emprego </strong>
 - 🌱 Estudando <i>Java </i> (ADS) em Fatec Zona Leste : Dev 
 - 😄 Pronomes: Ele/Dele
+
+## Redes Sociais
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/poet.ry9096/)
 [![Facebook](https://img.shields.io/badge/Facebook-0866FF.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100015251503264&mibextid=ZbWKwL)
