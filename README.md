@@ -1,4 +1,4 @@
-## Perfil do Felype
+## Perfil do Felype 😄
 
 ### Olá Galera, Eu sou o Felype 👋
 
