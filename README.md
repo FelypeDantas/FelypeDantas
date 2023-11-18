@@ -1,4 +1,4 @@
-## Bem-Vindo(a) ao Perfil do Felype 😄
+## Bem-Vindo(a) ao Perfil do Felype 😊
 
 ### Olá Galera, Eu sou o Felype 👋
 
@@ -14,6 +14,8 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/qr/EOCNNKM4XUHDM1)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FelypeDantas)
 ![Follow](https://img.shields.io/github/followers/FelypeDantas.svg?style=social&label=Follow&maxAge=2592000)
+
+## Progresso
 
 ![FelypeDantas GitHub stats](https://github-readme-stats.vercel.app/api?username=FelypeDantas&show_icons=true&theme=highcontrast)
 ![Felype Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelypeDantas&theme=blue-green)
