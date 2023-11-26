@@ -1,5 +1,7 @@
 ## Bem-Vindo(a) ao Perfil do Felype 😊
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000ff&height=120&section=header"/>
+
 ### Olá Galera, Eu sou o Felype 👋
 
 ![Watches](https://img.shields.io/github/watchers/FelypeDantas/FelypeDantas.svg)
@@ -15,7 +17,6 @@
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/qr/EOCNNKM4XUHDM1)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FelypeDantas)
-![Follow](https://img.shields.io/github/followers/FelypeDantas.svg?style=social&label=Follow&maxAge=2592000)
 
 ## Progresso
 
@@ -41,3 +42,5 @@
 ![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Netbeans](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)
+
+<img width=100% <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000ff&height=120&section=footer"/>
