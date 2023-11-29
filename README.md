@@ -11,7 +11,6 @@
 - 😄 Pronomes: Ele/Dele
 
 
-
 ## Redes Sociais
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/poet.ry9096/)
