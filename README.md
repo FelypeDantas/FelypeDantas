@@ -1,6 +1,5 @@
 ## Bem-Vindo(a) ao Perfil do Felype 😊
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000ff&height=120&section=header"/>
 
 ### Olá Galera, Eu sou o Felype 👋
 
