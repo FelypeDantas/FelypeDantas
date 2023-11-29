@@ -1,4 +1,8 @@
+
+
 ## Bem-Vindo(a) ao Perfil do Felype 😊
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000ff&height=120&section=header"/>
 
 <img align="right" width="300" src=https://github.com/FelypeDantas/FelypeDantas/assets/132705654/af96dea5-2d8b-4a7f-ab10-a65d334f5fe1/>
 
