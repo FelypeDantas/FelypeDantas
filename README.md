@@ -40,6 +40,9 @@
   <img align="center" alt="Fe-C" height="30" width="40" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img align="center" alt="Fe-C++" height="30" width="40" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img align="center"  alt="Fe-JS"  height="30" width="70" src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript">
+  <img align="center" alt="Bootstrap" height="30" width="70" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img align="center" alt="Tailwind" heitght="30" width="70" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img align="center" alt="SASS" height="30" width="70" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 </div>
 
 ## IDE's as quais estou acostumado
@@ -49,5 +52,7 @@
 ![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Netbeans](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000ff&height=120&section=footer"/>
