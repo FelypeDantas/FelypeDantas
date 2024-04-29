@@ -30,6 +30,11 @@
 [![Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)]()
 [![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)](https://us05web.zoom.us/j/*******288?pwd=pV3QfwiyNWf0FLNQrXqzN2OwX74xns.1)
 
+## Apoios DEV
+![Byanca](https://img.shields.io/badge/Byanca%20Matos-purple)
+![CodeChef](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)
+
+
 ## Progresso
 
 ![FelypeDantas GitHub stats](https://github-readme-stats.vercel.app/api?username=FelypeDantas&show_icons=true&theme=highcontrast)
