@@ -24,6 +24,12 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/qr/EOCNNKM4XUHDM1)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FelypeDantas)
 
+## Estudos em Grupo
+
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/dcm6sScy)
+[![Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)]()
+[![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)](https://us05web.zoom.us/j/*******288?pwd=pV3QfwiyNWf0FLNQrXqzN2OwX74xns.1)
+
 ## Progresso
 
 ![FelypeDantas GitHub stats](https://github-readme-stats.vercel.app/api?username=FelypeDantas&show_icons=true&theme=highcontrast)
