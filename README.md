@@ -10,7 +10,7 @@
 
 ![Watches](https://img.shields.io/github/watchers/FelypeDantas/FelypeDantas.svg)
 
-- 🔭 estou em busca do <strong> meu primeiro emprego </strong>
+- 🔭 Estou em busca do <strong> meu primeiro emprego </strong>
 - 🌱 Estudando <i>Java </i> (ADS) em Fatec Zona Leste : Dev 
 - 😄 Pronomes: Ele/Dele
 
