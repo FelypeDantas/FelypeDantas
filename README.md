@@ -30,7 +30,7 @@
 [![Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)]()
 [![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)](https://us05web.zoom.us/j/*******288?pwd=pV3QfwiyNWf0FLNQrXqzN2OwX74xns.1)
 
-## Apoios DEV
+## Social
 ![Byanca Matos](https://img.shields.io/badge/Byanca%20Matos-purple?style=for-the-badge&logo=github)
 ![CodeChef](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)
 
