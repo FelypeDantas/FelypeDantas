@@ -34,7 +34,7 @@
 
 ## Parcerias e retratações
 
-![Byanca Matos](https://img.shields.io/badge/Byanca%20Matos-purple?style=for-the-badge&logo=github)
+[![Byanca Matos](https://img.shields.io/badge/Byanca%20Matos-purple?style=for-the-badge&logo=github)](https://github.com/ByancaMatos01)
 
 ## Progresso
 
