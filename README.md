@@ -23,6 +23,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felype-dantas-dos-santos-94497b193)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/qr/EOCNNKM4XUHDM1)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FelypeDantas)
+![CodeChef](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)
 
 ## Estudos em Grupo
 
@@ -30,10 +31,9 @@
 [![Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)]()
 [![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)](https://us05web.zoom.us/j/*******288?pwd=pV3QfwiyNWf0FLNQrXqzN2OwX74xns.1)
 
-## Social
-![Byanca Matos](https://img.shields.io/badge/Byanca%20Matos-purple?style=for-the-badge&logo=github)
-![CodeChef](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)
+## Parcerias e retratações
 
+![Byanca Matos](https://img.shields.io/badge/Byanca%20Matos-purple?style=for-the-badge&logo=github)
 
 ## Progresso
 
