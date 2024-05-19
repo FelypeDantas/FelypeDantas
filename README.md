@@ -57,10 +57,10 @@
   <img align="center" alt="Fe-C++" height="30" width="40" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img align="center"  alt="Fe-JS"  height="30" width="70" src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript">
   <img align="center" alt="Bootstrap" height="30" width="70" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img align="center" alt="Tailwind" heitght="30" width="70" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img align="center" alt="Tailwind" height="30" width="70" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img align="center" alt="SASS" height="30" width="70" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
   <img align="center" alt="Svelte" height="30" width="70" src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00">
-  <img allign="center" alt="Swagger" height="30" width="70" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white">
+  <img align="center" alt="Swagger" height="30" width="70" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white">
 </div>
 
 ## IDE's as quais estou acostumado
