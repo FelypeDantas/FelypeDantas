@@ -30,6 +30,9 @@
 
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://ghostp.hashnode.dev/)
 
+## Educação
+![codewars](https://www.codewars.com/users/FelypeDantas/badges/large)
+
 ## Estudos em Grupo
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/dcm6sScy)
