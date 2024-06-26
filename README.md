@@ -64,6 +64,7 @@
   <img align="center" alt="SASS" height="30" width="70" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
   <img align="center" alt="Svelte" height="30" width="70" src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00">
   <img align="center" alt="Swagger" height="30" width="70" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white">
+  <img align="center" alt="Markdown" height="30" width="70" src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white">
 </div>
 
 ## IDE's as quais estou acostumado
