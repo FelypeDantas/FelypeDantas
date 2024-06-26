@@ -12,7 +12,6 @@
 
 - 🔭 Estou em busca do <strong> meu primeiro emprego </strong>
 - 🌱 Estudando <i>Java </i> (ADS) em Fatec Zona Leste : Dev 
-- 😄 Pronomes: Ele/Dele
 
 
 ## Redes Sociais
