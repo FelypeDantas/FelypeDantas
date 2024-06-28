@@ -6,10 +6,10 @@
 
 <img align="right" width="300" src=https://github.com/FelypeDantas/FelypeDantas/assets/132705654/af96dea5-2d8b-4a7f-ab10-a65d334f5fe1/>
 
-### Olá Galera, Eu sou o Felype 👋
+### Olá Galera 👋
 
 - 🔭 Estou em busca do <strong> meu primeiro emprego </strong>
-- 🌱 Estudando <i>Java </i> (ADS) em Fatec Zona Leste : Dev 
+- 🌱 Estudando <i>Java </i> (ADS) em Fatec Zona Leste : <Dev> 
 
 
 ## Encontre-me em:
