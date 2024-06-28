@@ -9,7 +9,7 @@
 ### Olá Galera 👋
 
 - 🔭 Estou em busca do <strong> meu primeiro emprego </strong>
-- 🌱 Estudando <i>Java </i> (ADS) em Fatec Zona Leste : <Dev> 
+- 🌱 Estudando <i>Java </i> (ADS) em Fatec Zona Leste
 
 
 ## Encontre-me em:
