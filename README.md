@@ -8,16 +8,15 @@
 
 ### Olá Galera, Eu sou o Felype 👋
 
-![Watches](https://img.shields.io/github/watchers/FelypeDantas/FelypeDantas.svg)
-
 - 🔭 Estou em busca do <strong> meu primeiro emprego </strong>
 - 🌱 Estudando <i>Java </i> (ADS) em Fatec Zona Leste : Dev 
 
 
-## Redes Sociais
+## Encontre-me em:
 
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/qr/EOCNNKM4XUHDM1)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/dcm6sScy)
 
 ## Blogs 
 
@@ -29,12 +28,6 @@
 ![CodeChef](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)
 ![Solorean](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)
 ![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)
-
-## Estudos em Grupo
-
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/dcm6sScy)
-[![Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)]()
-[![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)](https://us05web.zoom.us/j/*******288?pwd=pV3QfwiyNWf0FLNQrXqzN2OwX74xns.1)
 
 ## Progresso
 
