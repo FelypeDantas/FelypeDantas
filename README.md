@@ -1,35 +1,26 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000ff&height=180&section=header&text=Felype&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-
-## Bem-Vindo(a) ao Perfil do Felype 😊
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000ff&height=120&section=header"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Felype+Dantas;I'm+20+years+old;I+study+analysis+and+systems+development+at+FATEC;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <img align="right" width="300" src=https://github.com/FelypeDantas/FelypeDantas/assets/132705654/af96dea5-2d8b-4a7f-ab10-a65d334f5fe1/>
 
-### Olá Galera 👋
 
-- Estou em busca do <strong> meu primeiro emprego </strong>
-- 🌱 Estudando ADS em Fatec Zona Leste 🔭 
-
-
-## Encontre-me em:
+### Encontre-me em:
 
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felyped03@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/qr/EOCNNKM4XUHDM1)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/dcm6sScy)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://ghostp.hashnode.dev/)
 
-## Educação
-![codewars](https://www.codewars.com/users/FelypeDantas/badges/large)
 
-![CodeChef](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)
-![Solorean](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)
-![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)
+![codewars](https://www.codewars.com/users/FelypeDantas/badges/large)
 
 ## Progresso
 
 ![FelypeDantas GitHub stats](https://github-readme-stats.vercel.app/api?username=FelypeDantas&show_icons=true&theme=highcontrast)
 ![Felype Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelypeDantas&theme=blue-green)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FelypeDantas&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Tecnologias do meu dia a dia!
 
@@ -75,9 +66,8 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
 
-## Clouds 
-
-![Netfily](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=FelypeDantas&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000ff&height=120&section=footer"/>
