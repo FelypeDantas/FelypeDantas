@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=I'm+20+years+old;I+study+analysis+and+systems+development+at+FATEC;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-![codewars](https://www.codewars.com/users/FelypeDantas/badges/large)
-
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/qr/EOCNNKM4XUHDM1)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://ghostp.hashnode.dev/)
 
