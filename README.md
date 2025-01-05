@@ -29,7 +29,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FelypeDantas)
 
-#### Artigos recentes
+#### Artigos recentes:
 <!-- HASHNODE STARTS -->
 <!-- HASNODE END -->
 
