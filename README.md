@@ -30,7 +30,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FelypeDantas)
 
 #### Artigos recentes:
-<!-- HASHNODE STARTS -->
-<!-- HASNODE END -->
+<!-- HASHNODE:STARTS -->
+<!-- HASNODE:END -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000ff&height=120&section=footer"/>
