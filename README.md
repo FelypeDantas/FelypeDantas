@@ -14,7 +14,6 @@
 ![SASS](https://img.shields.io/badge/Sass-000000?style=for-the-badge&logo=sass&logoColor=00FF00)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=008000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000.svg?style=for-the-badge&logo=TypeScript&logoColor=00FF00)
-![Figma](https://img.shields.io/badge/Figma-000000.svg?style=for-the-badge&logo=Figma&logoColor=008000)
 #### Back-End:
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00FF00)
 ![Python](https://img.shields.io/badge/Python-000000.svg?style=for-the-badge&logo=Python&logoColor=008000)
@@ -27,5 +26,8 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-000000?style=for-the-badge&logo=swagger&logoColor=00FF00)
 ![Docker](https://img.shields.io/badge/Docker-000000.svg?style=for-the-badge&logo=Docker&logoColor=008000)
 ![Linux](https://img.shields.io/badge/Linux-000000.svg?style=for-the-badge&logo=Linux&logoColor=00FF00)
+#### Design UX:
+![Figma](https://img.shields.io/badge/Figma-000000.svg?style=for-the-badge&logo=Figma&logoColor=008000)
+![Canva](https://img.shields.io/badge/Canva-000000.svg?style=for-the-badge&logo=Canva&logoColor=00FF00)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=footer"/>
