@@ -77,8 +77,6 @@ Status: Building cool things in the dark mode dimension 🌑
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=FelypeDantas&theme=chartreuse-dark&background=000000&border=00ff88&stroke=00ff88&ring=00ff88&fire=00ff88&currStreakLabel=00ff88"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelypeDantas&layout=compact&theme=chartreuse-dark&bg_color=000000&title_color=00ff88&text_color=ffffff&border_color=00ff88"/>
-
 </div>
 
 <br/>
@@ -116,4 +114,3 @@ Building:
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:001a00,50:00ff88,100:00ff00&height=140&section=footer"/>
 
 </div>
-```
