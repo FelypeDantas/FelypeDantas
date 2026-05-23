@@ -21,7 +21,6 @@ Name: Felype Dantas
 Role: FullStack Developer
 Focus: Modern Interfaces • Automation • Creative Systems
 Stack: JavaScript • TypeScript • Python • Java
-Status: Building cool things in the dark mode dimension 🌑
 ````
 
 ---
